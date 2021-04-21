@@ -1,0 +1,32 @@
+.parentLoginCont{
+    border: 1px solid black;
+    width: 350px;
+    height: 500px;
+    margin: 90px;
+    background-color: #054a91;
+    
+    
+}
+.formsHolder{
+    padding: 30px;
+    margin: 20px;
+}
+.GrandParent{
+    display: flex;
+    justify-content: center;
+    background-color: #ebecf0;
+}
+.signchild{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.centerrSpan{
+    text-align: center;
+    display: block;
+}
+.Center{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

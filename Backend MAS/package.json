@@ -1,0 +1,32 @@
+{
+  "name": "loginsignup",
+  "version": "1.0.0",
+  "description": "This package is about post api that get the information such as email, password from the user and do the login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Login",
+    "Signup",
+    "Post",
+    "Api",
+    "Node",
+    "Express",
+    "servers"
+  ],
+  "author": "Mohammed Aliyaan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "link": "^0.1.5",
+    "mongodb": "^3.6.6",
+    "morgan": "^1.10.0"
+  }
+}
